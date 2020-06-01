@@ -1,5 +1,8 @@
 # NASA-SpaceApp-Hackathon-Challenge_Integrated-assessment
 
+## Challenge: An Integrated Assessment
+> Our challenge was to integrate various Earth Observation-derived features with available socio-economic data in order to discover or enhance our understanding of COVID-19 impacts.
+
 ## Project Title: County jobs Vulnerable to COVID-19
 > By: Shivam Chauhan(Team Lead),Dong Quoc Tuong , Rachelle Maranon.
 
